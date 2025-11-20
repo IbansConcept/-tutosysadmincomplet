@@ -1,4 +1,4 @@
-#Tutoriel SysAdmin Complet : Ubuntu + Windows Server + Samba + Active Directory Jonction Win11
+# Tutoriel SysAdmin Complet : Ubuntu + Windows Server + Samba + Active Directory Jonction Win11
 
 ![Thumbnail]()  
 
@@ -6,7 +6,7 @@
 
 Un tutoriel système complet pour maîtriser l'intégration Ubuntu/Windows avec Samba Domain Controller, Windows Server et jonction de Windows 11 au domaine → parfait pour les administrateurs systèmes débutants et confirmés.
 
-###Fonctionnalités couvertes :
+### Fonctionnalités couvertes :
 
 Installation et configuration Ubuntu Server
 Mise en place Samba Domain Controller
@@ -16,7 +16,7 @@ Jonction Windows 11 aux deux domaines
 Résolution des problèmes courants
 Scripts d'automatisation fournis
 
-###Technologies utilisées :
+### Technologies utilisées :
 
 Ubuntu Server 22.04 LTS
 Samba 4.x Domain Controller
