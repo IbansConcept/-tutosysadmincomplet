@@ -11,10 +11,13 @@ Tutoriel complet from scratch : Serveur Samba Domain Controller + Windows Server
 
 🔔 ABONNEZ-VOUS pour ne pas rater les prochains tutoriels : https://www.youtube.com/@DiGiProUnic
 
-Liens utiles :
+### Liens utiles :
 https://digiprounic.com/installation-samba-dc-dns-ad-ubuntu/
+
 https://digiprounic.com/depannage-windows-it-ia/
+
 https://digiprounic.com/installer-et-configurer-windows-server-2022/
+
 GitHub → https://github.com/IbansConcept/-tutosysadmincomplet.git
 
 ### Fonctionnalités couvertes :
