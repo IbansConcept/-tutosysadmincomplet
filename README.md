@@ -4,7 +4,18 @@
 
 🎬 **Vidéo :**   👉 [Regarder la vidéo sur YouTube](https://www.youtube.com/@DiGiProUnic)
 
-Un tutoriel système complet pour maîtriser l'intégration Ubuntu/Windows avec Samba Domain Controller, Windows Server et jonction de Windows 11 au domaine → parfait pour les administrateurs systèmes débutants et confirmés.
+Configuration système en silence – musique Lofi Coding Beats ♫
+Tutoriel complet from scratch : Serveur Samba Domain Controller + Windows Server + Jonction Windows 11 → parfait pour les administrateurs systèmes débutants et confirmés.
+
+💡 N'oubliez pas de 👍 likez la vidéo si elle vous aide et 📌 partagez-la à vos collègues!
+
+🔔 ABONNEZ-VOUS pour ne pas rater les prochains tutoriels : https://www.youtube.com/@DiGiProUnic
+
+Liens utiles :
+https://digiprounic.com/installation-samba-dc-dns-ad-ubuntu/
+https://digiprounic.com/depannage-windows-it-ia/
+https://digiprounic.com/installer-et-configurer-windows-server-2022/
+GitHub → https://github.com/IbansConcept/-tutosysadmincomplet.git
 
 ### Fonctionnalités couvertes :
 
