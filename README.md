@@ -1,12 +1,10 @@
 #Tutoriel SysAdmin Complet : Ubuntu + Windows Server + Samba + Active Directory Jonction Win11
 
-![Thumbnail](https://i9.ytimg.com/vi/XgvkIhc5TR4/mqdefault.jpg?v=691ca9f2&sqp=CMzP-8gG&rs=AOn4CLDyQvnGYMdTiSlYFONl4-ZkTpTZ-g)  
+![Thumbnail]()  
 
-🎬 **Vidéo :**   👉 [Regarder la vidéo sur YouTube](https://youtu.be/XgvkIhc5TR4)
+🎬 **Vidéo :**   👉 [Regarder la vidéo sur YouTube](https://www.youtube.com/@DiGiProUnic)
 
-Un tutoriel système complet pour maîtriser l'intégration Ubuntu/Windows avec Samba Domain Controller, Windows Server et jonction de Windows 11 au domaine.
-
-100 % lignes de commande + interfaces graphiques → parfait pour les administrateurs systèmes débutants et confirmés.
+Un tutoriel système complet pour maîtriser l'intégration Ubuntu/Windows avec Samba Domain Controller, Windows Server et jonction de Windows 11 au domaine → parfait pour les administrateurs systèmes débutants et confirmés.
 
 ###Fonctionnalités couvertes :
 
@@ -28,7 +26,7 @@ PowerShell
 
  **Si ce projet t’aide, n’oublie pas la petite ⭐ et l’abonnement YouTube, ça motive énormément !**
  
-🎬 **Vidéo :**   👉 [Regarder la vidéo sur YouTube](https://youtu.be/XgvkIhc5TR4)
+🎬 **Vidéo :**   👉 [Regarder la vidéo sur YouTube](https://www.youtube.com/@DiGiProUnic)
 
 ### Tags
 #NoTalking #LofiCoding #SysAdmin #TutorielComplet #Ubuntu #Samba #WindowsServer #ActiveDirectory #Windows11 #DomainController #Tutorial #NetworkAdmin #SysAdmin
