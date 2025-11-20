@@ -1,10 +1,10 @@
 # Tutoriel SysAdmin Complet : Ubuntu + Windows Server + Samba + Active Directory Jonction Win11
 
-![Thumbnail]()  
+![Thumbnail](https://i9.ytimg.com/vi/7GD2_YuIIBY/mqdefault.jpg?v=691f051c&sqp=CJiK_MgG&rs=AOn4CLD8QCV77boL9cUq7Xvl6MA6kv85-g)  
 
-🎬 **Vidéo :**   👉 [Regarder la vidéo sur YouTube](https://www.youtube.com/@DiGiProUnic)
+🎬 **Vidéo :**   👉 [Regarder la vidéo sur YouTube](https://youtu.be/7GD2_YuIIBY)
 
-Configuration système en silence – musique Lofi Coding Beats ♫
+Configuration système en silence – musique Lofi Hip Hop Mix ♫
 Tutoriel complet from scratch : Serveur Samba Domain Controller + Windows Server + Jonction Windows 11 → parfait pour les administrateurs systèmes débutants et confirmés.
 
 💡 N'oubliez pas de 👍 likez la vidéo si elle vous aide et 📌 partagez-la à vos collègues!
@@ -50,7 +50,7 @@ PowerShell
 
  **Si ce projet t’aide, n’oublie pas la petite ⭐ et l’abonnement YouTube, ça motive énormément !**
  
-🎬 **Vidéo :**   👉 [Regarder la vidéo sur YouTube](https://www.youtube.com/@DiGiProUnic)
+🎬 **Vidéo :**   👉 [Regarder la vidéo sur YouTube](https://youtu.be/7GD2_YuIIBY)
 
 ### Tags
 #NoTalking #LofiCoding #SysAdmin #TutorielComplet #Ubuntu #Samba #WindowsServer #ActiveDirectory #Windows11 #DomainController #Tutorial #NetworkAdmin #SysAdmin
