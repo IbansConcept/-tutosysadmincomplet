@@ -9,19 +9,29 @@ Un tutoriel système complet pour maîtriser l'intégration Ubuntu/Windows avec 
 ### Fonctionnalités couvertes :
 
 Installation et configuration Ubuntu Server
+
 Mise en place Samba Domain Controller
+
 Installation Windows Server 2022
+
 Configuration Active Directory et DNS
+
 Jonction Windows 11 aux deux domaines
+
 Résolution des problèmes courants
+
 Scripts d'automatisation fournis
 
 ### Technologies utilisées :
 
-Ubuntu Server 22.04 LTS
+Ubuntu Server 24.04 LTS
+
 Samba 4.x Domain Controller
+
 Windows Server 2022
+
 Windows 11 Pro
+
 PowerShell
 
  **Si ce projet t’aide, n’oublie pas la petite ⭐ et l’abonnement YouTube, ça motive énormément !**
