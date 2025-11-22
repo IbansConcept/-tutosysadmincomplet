@@ -1,6 +1,6 @@
 # Tutoriel SysAdmin Complet : Ubuntu + Windows Server + Samba + Active Directory Jonction Win11
 
-![Thumbnail](https://i9.ytimg.com/vi/7GD2_YuIIBY/mqdefault.jpg?v=691f051c&sqp=CJiK_MgG&rs=AOn4CLD8QCV77boL9cUq7Xvl6MA6kv85-g)  
+![Thumbnail](https://i9.ytimg.com/vi/7GD2_YuIIBY/mqdefault.jpg?v=691f051c&sqp=CKT7h8kG&rs=AOn4CLCQIZMK5l0TN-gGD7aY8elX5AIUfQ)  
 
 🎬 **Vidéo :**   👉 [Regarder la vidéo sur YouTube](https://youtu.be/7GD2_YuIIBY)
 
